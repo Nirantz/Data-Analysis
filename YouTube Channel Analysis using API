@@ -1,0 +1,9 @@
+The guide on utilizing the YouTube API with Python to analyze and compare top tech channels on YouTube.
+It starts with on setting up the Google Developers Console to obtain an API key for accessing the YouTube API.
+Then to use the API to retrieve data such as channel basic information (creation date, description, etc.) and details of all videos for a specific channel.
+Python libraries such as pandas and google-api-python-client are utilized for data manipulation and API calls.
+The process involves retrieving channel information and video details using specific endpoints of the YouTube API.
+The analysis focuses on five prominent tech channels: techTFQ, Luke Barousse, Ken Jee, Alex the analyst, and Tina Huang.
+Data obtained includes channel overview and video details like title, description, views, likes, etc., which are stored in DataFrames for analysis.
+Graphical analyses are conducted to compare metrics like view count, video count, average views per video, and video duration among the channels.
+The article concludes by suggesting further analysis ideas and the importance of leveraging APIs for data science projects.
